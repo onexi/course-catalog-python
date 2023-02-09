@@ -63,6 +63,7 @@ def store(data,file):
 # loop through urls
 for url in urls:
     # Enter your code here
-    data = pull(url)
+    # data = pull(url)
     # Enter your code here
-    store(data, file)
+    # store(data, file)
+    pass

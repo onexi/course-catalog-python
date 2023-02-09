@@ -3,8 +3,9 @@ import json
 
 def store_json(data,file):
     # Enter your code here
+    pass
 
-with open('titles.json', 'r') as file:
+with open('03_titles.json', 'r') as file:
     # Enter your code here - load JSON
 
     # remove punctuation/numbers
@@ -13,4 +14,5 @@ with open('titles.json', 'r') as file:
     # remove one character words
     # Enter your code here
 
-    store_json(titles, 'titles_clean.json')
+    # store_json(titles, '04_titles_clean.json')
+    pass
